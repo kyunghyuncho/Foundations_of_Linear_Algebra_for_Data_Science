@@ -3,3 +3,6 @@ scipy
 matplotlib
 seaborn
 sympy
+jupyterlab
+pillow
+scikit-learn
